@@ -7,7 +7,7 @@ clear
 close all
 
 K=100;  %samples
-q=0.6;  %offsetof value
+q=0.6;  %value of offset
 
 A=[rand(1,K)-q;rand(1,K)+q];
 B=[rand(1,K)+q;rand(1,K)+q];

@@ -1,3 +1,7 @@
+%This file allows the missing parts of a lost rgb picture to be completed
+%with artificial neural networks
+%19.12.2018
+%Musa Tuğrul Yılmaz
 clc
 clear all
 close all

@@ -1,4 +1,4 @@
-%% 
+%this file allows the classification of two randomly generated species
 % 11.10.2018
 % Musa Tugrul Yılmaz
 
